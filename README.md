@@ -9,7 +9,7 @@
 
 <!-- Mi descripcion -->
 ## <h3>I am:</h3>
-### <img width="25" height="25" src="https://user-images.githubusercontent.com/98198234/201503530-590c9cd2-7486-40a4-a135-5af71dbd285b.png"/> | Full Stack Developer | Data Analytics | Filmmaker | Robotic Engineer | Mechanic | Photographer | <img width="25" height="25" src="https://user-images.githubusercontent.com/98198234/201503530-590c9cd2-7486-40a4-a135-5af71dbd285b.png"/> 
+### <img width="25" height="25" src="https://user-images.githubusercontent.com/98198234/201503530-590c9cd2-7486-40a4-a135-5af71dbd285b.png"/> | Full Stack Developer | Data Analytics | Robotic Engineer | Filmmaker | Photographer | <img width="25" height="25" src="https://user-images.githubusercontent.com/98198234/201503530-590c9cd2-7486-40a4-a135-5af71dbd285b.png"/> 
 
 <!-- Barra de separacion -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
