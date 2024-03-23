@@ -1,11 +1,11 @@
-# <p align="center">👋Hello!, My name is Issac C.C. 👋</p>
+# <p align="center"> Hello!, My name is Issac C.C. 👋</p>
 <a href="https://icc944.github.io/icc-website.github.io/" target="_blank">Take a look to my website</a>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 <!-- Numero de visita -->
 <h4 align="center">You are the Visitor</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{YzackZack476}/count.svg" alt="YzackZack476 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{icc944}/count.svg" alt="icc944 :: Visitor's Count" /></p>
 
 <!-- Mi descripcion -->
 ## <h3>I am:</h3>
